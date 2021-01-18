@@ -67,17 +67,15 @@
 
 </head>
 <body>
-<!-- NAVBAR-->
+
 
 <div id="home">
     <div class="container">
 
-        <form action="" class="form-group">
+        <form action="Registration" class="form-group" method="post">
 
             <div class="shadow-lg p-3 mb-5 bg-white rounded" style="margin-top: 12%;">
-                <div class="h4" style="text-align: center">
-                    <h4 >${msg}</h4>
-                </div>
+
 
                 <h2 >Sign Up</h2><br>
 
@@ -112,7 +110,7 @@
                         <input type="password" class="form-control" id="repass" name="repass" placeholder="Enter Re-password" required>
 
                     </div>
-                    <div id="showErrorPwd" class="col-md-7"> </div>
+
 
 
                     <div class="col-md-12" style="text-align: center; text-align: center; margin-top: 20px;" >

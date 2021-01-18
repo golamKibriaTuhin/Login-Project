@@ -78,9 +78,7 @@
         <div class="container">
             <div class="row d-flex justify-content-center" >
                 <div class="shadow-lg p-4 mb-5 bg-white rounded" style="margin-top: 10%;">
-                    <div class="h4" style="text-align: center">
 
-                    </div>
 
 
                     <h2 class="text-center">Login</h2> <br>
