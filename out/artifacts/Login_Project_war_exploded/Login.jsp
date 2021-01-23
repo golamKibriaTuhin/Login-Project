@@ -74,7 +74,7 @@
 <!-- NAVBAR-->
 
 <div id="home">
-    <form action="">
+    <form action="Login" method="post">
         <div class="container">
             <div class="row d-flex justify-content-center" >
                 <div class="shadow-lg p-4 mb-5 bg-white rounded" style="margin-top: 10%;">
@@ -87,7 +87,7 @@
 
                         <label for="uname">Phone/Email:</label>
 
-                        <input type="text" class="form-control" id="uname" placeholder="Enter username" name="user"
+                        <input type="text" class="form-control" id="uname" placeholder="Enter username" name="phone"
                                required>
 
                     </div>

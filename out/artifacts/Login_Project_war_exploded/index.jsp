@@ -11,6 +11,6 @@
     <title>$Title$</title>
   </head>
   <body>
-  $END$
+  <h4>Your login successfully done</h4>
   </body>
 </html>
